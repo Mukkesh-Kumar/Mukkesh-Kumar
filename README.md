@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development and Android Application as well as IOS Applications
 - 🌱 I had currently Completed my Web Development projects using  Angular and React...
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me http://themukeshkumar.in/
 
 <!---
 Mukkesh-Kumar/Mukkesh-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
